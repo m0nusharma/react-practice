@@ -1,0 +1,43 @@
+.subscribe{
+    width: 300px;
+    background-color: #ff956e;
+    padding:15px ;
+    /* text-align: center; */
+    color: white;
+    border-radius: 15px;
+    height: 160px;
+
+}
+
+.NHame{
+font-size: 15px;
+}
+.PHead{
+    font-size: 11px;
+}
+
+.mail{
+    background-color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 7px;
+    width: 275px;
+    height: 38px;
+    font-size: 14px;
+    padding-left: 25px;
+}
+
+.subs{
+    display: flex;
+    position: relative;
+}
+.light{
+    border-radius: 20px;
+    font-size: 12px;
+    position: absolute;
+    right: 0px;
+    height: 38px;
+    width: 78px;
+    border: none;
+    font-weight: bold;
+}

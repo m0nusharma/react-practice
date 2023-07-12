@@ -1,0 +1,36 @@
+.write {
+  width: 200px;
+  margin: 10px;
+  padding: 20px;
+  background-color: rgb(239, 239, 239);
+  border-radius: 10px;
+  text-align: center;
+}
+
+.body {
+  display: flex;
+  justify-content: center;
+}
+
+.CardCurcle {
+  height: 70px;
+  width: 70px;
+  margin: 10px;
+  border-radius: 50%;
+  background-color: rgb(243, 217, 192);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.plus {
+  color: orange;
+  font-size: 37px;
+}
+.textSize {
+  font-size: 18px;
+}
+
+.PName {
+  font-size: 12px;
+}

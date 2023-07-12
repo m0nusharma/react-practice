@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+.contant{
+    margin: 10px;
+    width: 300px;
+    background-color: aliceblue;
+    /* border: 2px solid rgb(176, 176, 176); */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.curcle{
+    height: 50px;
+    width: 50px; 
+    border-radius: 50%;
+    border: 1px solid rgb(205, 205, 205);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+/* justify-content: space-between; */
+
+.microsoft{
+    width: 20px;
+}
+.logo{
+    display: flex;
+    gap: 10px;
+}
+
+.smallCr{
+    height: 30px;
+    width: 30px; 
+    border-radius: 50%;
+    border: 1px solid rgb(205, 205, 205);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    color: red;
+}
+
+
+.text{
+    font-size: 17px;
+    font-weight: bolder;
+}
+
+.develop{
+    font-size: 15px;
+
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.foot{
+    display: flex;
+    gap: 10px
+    ;
+    align-items: center;
+}
+.foott{
+    font-size: 10px;
+    margin: 2px;
+}
+
+.Apply{
+    font-size: 10px;
+    width: 69px;
+    height: 25px;
+    border-radius: 16px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
